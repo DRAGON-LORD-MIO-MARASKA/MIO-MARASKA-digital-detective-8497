@@ -52,3 +52,11 @@ This assignment gave me hands-on experience with the fundamental layers of compu
 ## Commit history
 
 Each mission was documented and committed separately with a meaningful message. All commits are pushed to GitHub.
+
+## My Learning
+
+Here are some key things I have learned so far:
+
+1. The IPOS cycle shows how every computer activity follows a pattern of Input, Processing, Output and Storage.
+2. The Terminal gives you direct control over your computer — it is faster and more precise than using a graphical interface for many tasks.
+3. Git lets you save your work in snapshots, so you can always go back to an earlier version if something goes wrong.
