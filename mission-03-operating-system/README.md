@@ -42,7 +42,7 @@ The **PID (Process ID)** is a unique number the OS assigns to each running proce
 
 ### Task 3.3 — Understand paths and permissions
 
-- **Absolute path:** Starts from the root of the file system. Example: `/Users/[redacted]/digital-detective-XXXX/mission-03-operating-system/README.md`
+- **Absolute path:** Starts from the root of the file system. Example: `/Users/[redacted]/digital-detective-8497/mission-03-operating-system/README.md`
 - **Relative path:** Starts from the current working directory. Example: `mission-03-operating-system/README.md` (when already inside the project folder).
 
 When I navigate into a subfolder with `cd mission-03-operating-system`, `pwd` shows a longer absolute path. When I go back up with `cd ..`, it shortens by one folder.
