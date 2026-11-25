@@ -4,7 +4,7 @@
 Set up a correctly named GitHub repository with the required folder structure for all missions, and prepare a root README.
 
 ## 2. Work completed
-- Decided on the repository name following the naming rule: `digital-detective-XXXX` (assignment name + last four USN digits).
+- Decided on the repository name following the naming rule: `digital-detective-8497` (assignment name + last four USN digits).
 - Created the local project folder with the exact repository name.
 - Created all nine mission folders (`mission-00-setup` through `mission-08-final-report`), each containing a `README.md`.
 - Created the `evidence/` folder for optional screenshots and outputs.
